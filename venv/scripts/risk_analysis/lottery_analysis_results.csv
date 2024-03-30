@@ -1,0 +1,11 @@
+Parameter,Value,Description
+Expected Win,7.64 UAH,The average amount of money won based on the updated probabilities and prize amounts.
+Variance,2095682.00,The measure of the spread of prize amounts using updated data.
+Standard Deviation,1447.65,"The square root of variance, indicating the deviation from the expected win with updated probabilities."
+Coefficient of Variation,189.37,A normalized measure of the dispersion of the prize distribution using updated data.
+Risk-Averse: Expected Utility,0.12,
+Risk-Averse: CE,0.13 UAH,
+Risk-Averse: RP,-19.87 UAH,
+Risk-Loving: Expected Utility,0.27,
+Risk-Loving: CE,-0.92 UAH,
+Risk-Loving: RP,-20.92 UAH,
